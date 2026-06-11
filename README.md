@@ -77,9 +77,9 @@ Scan struk atau nota untuk membantu proses pencatatan transaksi.
 Input transaksi dengan format sederhana.
 
 ```text
-Lunch 25000
-Coffee 18000
-Fuel 50000
+Bakso 10k
+Kopi 8000
+Gaji 80jt
 ```
 
 ---
