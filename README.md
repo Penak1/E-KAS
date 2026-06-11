@@ -2,69 +2,79 @@
   <img src="assets/E-KAS_Banner1.png" width="100%" alt="E-Kas Banner">
 </p>
 
-<h1 align="center">💰 E-Kas</h1>
+<h1 align="center">👛 E-Kas</h1>
 
 <p align="center">
-  <b>AI-Powered Personal Finance Manager</b><br>
-  Manage Expenses • Track Cash Flow • Smart Analytics • Modern Experience
-</p>
-
-![Stars](https://img.shields.io/github/stars/Penak1/E-KAS?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Penak1/E-KAS?style=for-the-badge)
-![Watchers](https://img.shields.io/github/watchers/Penak1/E-KAS?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Penak1/E-KAS?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Penak1/E-KAS?style=for-the-badge)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Enhanced-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UI-Premium-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <strong>Smart Personal Finance Manager</strong><br>
+  Track Expenses • Monitor Cash Flow • Financial Insights • Premium Experience
 </p>
 
 <p align="center">
-  <a href="#download">📥 Download</a> •
+  <img src="https://komarev.com/ghpvc/?username=Penak1&repo=E-KAS&style=for-the-badge&color=blueviolet" alt="Views">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Penak1/E-KAS?style=for-the-badge&color=F59E0B">
+  <img src="https://img.shields.io/github/forks/Penak1/E-KAS?style=for-the-badge&color=3B82F6">
+  <img src="https://img.shields.io/github/issues/Penak1/E-KAS?style=for-the-badge&color=EF4444">
+  <img src="https://img.shields.io/github/last-commit/Penak1/E-KAS?style=for-the-badge&color=22C55E">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Assisted-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI-Modern-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-84CC16?style=for-the-badge">
+</p>
+
+<p align="center">
   <a href="#features">✨ Features</a> •
-  <a href="#screenshots">📱 Screenshots</a> •
+  <a href="#download">📥 Download</a> •
   <a href="#roadmap">🛣️ Roadmap</a>
 </p>
 
 ---
 
-# ✨ Why E-Kas?
+# 👋 Welcome to E-Kas
 
-E-Kas membantu Anda mencatat, memantau, dan memahami kondisi keuangan dengan lebih praktis melalui kombinasi teknologi modern, analitik visual, dan pengalaman pengguna yang nyaman digunakan setiap hari.
+E-Kas adalah aplikasi pencatatan keuangan modern yang membantu pengguna mengelola pemasukan, pengeluaran, anggaran, dan laporan keuangan dengan lebih praktis dan efisien.
 
-### 🎯 Built For
+Dirancang untuk penggunaan sehari-hari dengan fokus pada kemudahan, kecepatan, dan pengalaman pengguna yang nyaman.
 
-* 👨‍🎓 Students
-* 🏠 Boarding House Residents
-* 💼 Employees
-* 🛒 Small Businesses
-* 📈 Freelancers
-* 👨‍👩‍👧‍👦 Families
+---
+
+# 🎯 Perfect For
+
+| User | Benefit |
+|--------|---------|
+| 👨‍🎓 Students | Mengatur uang saku |
+| 🏠 Boarding House Residents | Mengontrol pengeluaran harian |
+| 💼 Employees | Memantau cash flow bulanan |
+| 🛒 Small Businesses | Mencatat transaksi usaha |
+| 📈 Freelancers | Mengelola pemasukan proyek |
+| 👨‍👩‍👧‍👦 Families | Mengatur keuangan rumah tangga |
 
 ---
 
 <a id="features"></a>
 
-# 🚀 Features
+# ✨ Features
 
 ## 🎙️ Voice Transaction
 
-Catat transaksi menggunakan suara secara lebih cepat dan praktis.
+Catat transaksi lebih cepat menggunakan input suara.
 
 ---
 
-## 📸 Smart Receipt Scanner
+## 📸 Receipt Scanner
 
-Scan nota atau struk belanja dan bantu percepat proses input transaksi.
+Scan struk atau nota untuk membantu proses pencatatan transaksi.
 
 ---
 
-## ⚡ Quick Input
+## ⚡ Quick Transaction Input
 
-Input transaksi hanya dengan teks sederhana.
+Input transaksi dengan format sederhana.
 
 ```text
 Lunch 25000
@@ -74,21 +84,22 @@ Fuel 50000
 
 ---
 
-## 📊 Smart Analytics
+## 📊 Financial Analytics
 
-Visualisasi data keuangan melalui:
+Visualisasi data keuangan yang mudah dipahami:
 
-* Expense Trends
-* Income Overview
-* Monthly Reports
-* Category Statistics
-* Financial Insights
+- Expense Overview
+- Income Tracking
+- Monthly Reports
+- Category Statistics
+- Spending Trends
+- Financial Insights
 
 ---
 
-## 💳 Budget Tracking
+## 💳 Budget Management
 
-Pantau anggaran dan pengeluaran secara lebih terstruktur.
+Pantau dan kelola anggaran dengan lebih terstruktur.
 
 ---
 
@@ -98,19 +109,26 @@ Buat kategori sesuai kebutuhan pribadi maupun bisnis.
 
 ---
 
+## 📅 Transaction History
+
+Riwayat transaksi lengkap dengan pencarian dan filter.
+
+---
+
 ## 🔄 Backup & Restore
 
-Backup dan pulihkan data kapan saja dengan mudah.
+Cadangkan dan pulihkan data kapan saja.
 
 ---
 
 ## 🌙 Premium Experience
 
-* Modern Dashboard
-* Dark Mode
-* Smooth Animation
-* Responsive Design
-* Clean User Interface
+- Modern Dashboard
+- Dark Mode
+- Smooth Animation
+- Responsive Interface
+- Clean Design
+- Fast Performance
 
 ---
 
@@ -120,13 +138,17 @@ Backup dan pulihkan data kapan saja dengan mudah.
 
 Membantu mempercepat pencatatan transaksi.
 
-### Intelligent Categorization
+### Smart Categorization
 
-Membantu pengelompokan transaksi secara lebih efisien.
+Membantu mengelompokkan transaksi secara lebih efisien.
 
 ### Financial Insights
 
-Ringkasan kondisi keuangan yang mudah dipahami.
+Ringkasan aktivitas keuangan yang mudah dipahami.
+
+### Spending Analysis
+
+Membantu memahami pola pengeluaran.
 
 ---
 
@@ -138,15 +160,17 @@ Ringkasan kondisi keuangan yang mudah dipahami.
 
 ✅ Quick Input
 
-✅ Smart Analytics
+✅ Financial Analytics
 
-✅ Budget Tracking
+✅ Budget Management
+
+✅ Transaction History
 
 ✅ Backup & Restore
 
-✅ Financial Dashboard
+✅ Smart Categories
 
-✅ Premium UI
+✅ Premium Dashboard
 
 ✅ Dark Mode
 
@@ -158,13 +182,15 @@ Ringkasan kondisi keuangan yang mudah dipahami.
 
 # 🛣️ Roadmap
 
-* [ ] Multi Device Sync
-* [ ] Financial Goals
-* [ ] Export PDF Report
-* [ ] Advanced Analytics
-* [ ] Smart Budget Planner
-* [ ] Cloud Synchronization
-* [ ] AI Financial Assistant
+- [ ] Multi Device Sync
+- [ ] Financial Goals
+- [ ] Export PDF Report
+- [ ] Advanced Analytics
+- [ ] Smart Budget Planner
+- [ ] Cloud Synchronization
+- [ ] AI Financial Assistant
+- [ ] Multi Currency Support
+- [ ] Shared Wallet
 
 ---
 
@@ -172,7 +198,7 @@ Ringkasan kondisi keuangan yang mudah dipahami.
 
 # 📥 Download
 
-Download versi terbaru melalui halaman Releases.
+Unduh versi terbaru melalui halaman Releases.
 
 ```text
 GitHub → Releases → Download APK
@@ -180,7 +206,17 @@ GitHub → Releases → Download APK
 
 ---
 
-# ❤️ Support
+# 🚀 Getting Started
+
+1. Download APK terbaru.
+2. Install aplikasi.
+3. Buat kategori transaksi.
+4. Catat pemasukan dan pengeluaran.
+5. Pantau laporan keuangan secara berkala.
+
+---
+
+# ❤️ Support Project
 
 Jika E-Kas membantu Anda:
 
@@ -198,7 +234,9 @@ Jika E-Kas membantu Anda:
 
 # 📌 Repository Topics
 
-Tambahkan pada Settings → Topics:
+Tambahkan pada:
+
+Settings → Topics
 
 ```text
 finance-app
@@ -211,7 +249,18 @@ cash-flow
 android-finance
 expense-manager
 ai-finance
+financial-management
+money-tracker
+budget-planner
+expense-management
+fintech
 ```
+
+---
+
+# 📄 License
+
+This project is available under the MIT License.
 
 ---
 
@@ -220,10 +269,5 @@ ai-finance
 </p>
 
 <p align="center">
-  <b>💰 E-Kas</b><br>
-  Smart Personal Finance Assistant
-</p>
-
-<p align="center">
-  Manage money smarter, easier, and more organized.
+  Made with ❤️ using Penak
 </p>
