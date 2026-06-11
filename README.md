@@ -2,7 +2,7 @@
   <img src="assets/E-KAS_Banner1.png" width="100%" alt="E-Kas Banner">
 </p>
 
-<h1 align="center">👛 E-Kas</h1>
+<h1 align="center">📱 E-Kas</h1>
 
 <p align="center">
   <strong>Smart Personal Finance Manager</strong><br>
