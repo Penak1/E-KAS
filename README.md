@@ -1,139 +1,116 @@
-# E-Kas — Smart Personal Finance Assistant
-
 <p align="center">
-  <img src="data:image/png;base64,[ISI_FILE_base64.txt]" width="100%">
+  <img src="assets/E-KAS_Banner1.png" width="100%" alt="E-Kas Banner">
 </p>
 
 <h1 align="center">💰 E-Kas</h1>
 
 <p align="center">
-  Smart Personal Finance Assistant
+  <b>AI-Powered Personal Finance Manager</b><br>
+  Manage Expenses • Track Cash Flow • Smart Analytics • Modern Experience
 </p>
 
-<p align="center">
-  Kelola pemasukan, pengeluaran, tabungan, dan aktivitas finansial harian dengan lebih cepat, lebih cerdas, dan lebih terorganisir.
-</p>
+![Stars](https://img.shields.io/github/stars/Penak1/E-KAS?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Penak1/E-KAS?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/Penak1/E-KAS?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Penak1/E-KAS?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Penak1/E-KAS?style=for-the-badge)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-Latest-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Android-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-Enhanced-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/UI-Premium-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>
 
+<p align="center">
+  <a href="#download">📥 Download</a> •
+  <a href="#features">✨ Features</a> •
+  <a href="#screenshots">📱 Screenshots</a> •
+  <a href="#roadmap">🛣️ Roadmap</a>
+</p>
+
 ---
 
 # ✨ Why E-Kas?
 
-Mengelola keuangan seharusnya tidak rumit.
+E-Kas membantu Anda mencatat, memantau, dan memahami kondisi keuangan dengan lebih praktis melalui kombinasi teknologi modern, analitik visual, dan pengalaman pengguna yang nyaman digunakan setiap hari.
 
-E-Kas membantu mencatat transaksi harian, memantau kondisi finansial, serta memahami pola pengeluaran melalui teknologi modern dan tampilan yang nyaman digunakan setiap hari.
+### 🎯 Built For
 
-### 🎯 Fokus Utama
-
-* Pencatatan cepat
-* Analisis mudah dipahami
-* Tampilan modern
-* Pengalaman pengguna yang sederhana
-* Produktivitas finansial harian
+* 👨‍🎓 Students
+* 🏠 Boarding House Residents
+* 💼 Employees
+* 🛒 Small Businesses
+* 📈 Freelancers
+* 👨‍👩‍👧‍👦 Families
 
 ---
 
-# 🚀 Fitur Unggulan
+<a id="features"></a>
+
+# 🚀 Features
 
 ## 🎙️ Voice Transaction
 
-Catat transaksi menggunakan suara.
-
-Ucapkan transaksi secara natural dan sistem membantu mengenali informasi transaksi untuk mempercepat pencatatan.
+Catat transaksi menggunakan suara secara lebih cepat dan praktis.
 
 ---
 
 ## 📸 Smart Receipt Scanner
 
-Scan nota atau struk belanja dalam hitungan detik.
-
-Membantu mengekstrak informasi penting agar proses input lebih praktis.
+Scan nota atau struk belanja dan bantu percepat proses input transaksi.
 
 ---
 
 ## ⚡ Quick Input
 
-Input transaksi secepat mengirim pesan.
-
-Contoh:
+Input transaksi hanya dengan teks sederhana.
 
 ```text
-Makan siang 25000
+Lunch 25000
+Coffee 18000
+Fuel 50000
 ```
-
-Sistem membantu mengenali nominal dan deskripsi secara otomatis.
 
 ---
 
 ## 📊 Smart Analytics
 
-Pantau kondisi keuangan melalui:
+Visualisasi data keuangan melalui:
 
-* Grafik pemasukan
-* Grafik pengeluaran
-* Ringkasan bulanan
-* Statistik kategori
-* Tren keuangan
+* Expense Trends
+* Income Overview
+* Monthly Reports
+* Category Statistics
+* Financial Insights
 
 ---
 
-## 💳 Budget & Expense Tracking
+## 💳 Budget Tracking
 
-Kelola anggaran dengan lebih terstruktur.
-
-* Pantau pengeluaran
-* Evaluasi kebiasaan finansial
-* Identifikasi kategori terbesar
+Pantau anggaran dan pengeluaran secara lebih terstruktur.
 
 ---
 
 ## 🏷️ Custom Categories
 
-Buat kategori sesuai kebutuhan:
-
-* Makanan
-* Transportasi
-* Gaji
-* Bisnis
-* Investasi
-* Tabungan
-* Hiburan
-* Lainnya
+Buat kategori sesuai kebutuhan pribadi maupun bisnis.
 
 ---
 
 ## 🔄 Backup & Restore
 
-Amankan data penting Anda.
-
-* Backup data
-* Restore kapan saja
-* Migrasi perangkat lebih mudah
+Backup dan pulihkan data kapan saja dengan mudah.
 
 ---
 
-## 🔒 Privacy & Security
+## 🌙 Premium Experience
 
-Dirancang untuk menjaga data pengguna tetap aman dan nyaman digunakan dalam aktivitas sehari-hari.
-
----
-
-## 🌙 Premium UI Experience
-
-Nikmati pengalaman modern dengan:
-
-* Modern Design
-* Smooth Animation
+* Modern Dashboard
 * Dark Mode
-* Responsive Layout
-* Clean Dashboard
+* Smooth Animation
+* Responsive Design
+* Clean User Interface
 
 ---
 
@@ -141,93 +118,61 @@ Nikmati pengalaman modern dengan:
 
 ### AI Assisted Recording
 
-Membantu mempercepat proses pencatatan transaksi.
+Membantu mempercepat pencatatan transaksi.
 
 ### Intelligent Categorization
 
-Membantu mengelompokkan transaksi secara lebih efisien.
+Membantu pengelompokan transaksi secara lebih efisien.
 
 ### Financial Insights
 
-Menyajikan ringkasan aktivitas keuangan secara visual dan mudah dipahami.
+Ringkasan kondisi keuangan yang mudah dipahami.
 
 ---
 
-# 📈 Dashboard Highlights
-
-✅ Financial Dashboard
+# 📈 Highlights
 
 ✅ Voice Transaction
 
 ✅ Receipt Scanner
 
-✅ Smart Analytics
-
 ✅ Quick Input
 
-✅ Custom Categories
+✅ Smart Analytics
 
-✅ Dark Mode
+✅ Budget Tracking
 
 ✅ Backup & Restore
 
-✅ Modern UI
+✅ Financial Dashboard
+
+✅ Premium UI
+
+✅ Dark Mode
 
 ✅ Fast Performance
 
 ---
 
-# 📱 Cocok Untuk
-
-### 👨‍🎓 Mahasiswa
-
-Mengatur uang saku dengan lebih terkontrol.
-
-### 🏠 Anak Kos
-
-Memantau pengeluaran harian dan bulanan.
-
-### 👨‍💼 Karyawan
-
-Mengelola pemasukan serta kebutuhan rutin.
-
-### 🛒 UMKM
-
-Mencatat transaksi usaha lebih praktis.
-
-### 👨‍👩‍👧‍👦 Keluarga
-
-Mengelola keuangan rumah tangga dengan lebih rapi.
-
----
+<a id="roadmap"></a>
 
 # 🛣️ Roadmap
 
-* [ ] Sinkronisasi Multi Device
-* [ ] Export PDF
-* [ ] Widget Dashboard
-* [ ] Smart Budget Planner
+* [ ] Multi Device Sync
 * [ ] Financial Goals
-* [ ] Cloud Sync
-* [ ] Advanced Reports
+* [ ] Export PDF Report
+* [ ] Advanced Analytics
+* [ ] Smart Budget Planner
+* [ ] Cloud Synchronization
+* [ ] AI Financial Assistant
 
 ---
 
-# 📷 Screenshots
-
-Tambahkan screenshot terbaik aplikasi Anda di sini.
-
-```text
-assets/screenshots/home.png
-assets/screenshots/dashboard.png
-assets/screenshots/analytics.png
-```
-
----
+<a id="download"></a>
 
 # 📥 Download
 
-Unduh versi terbaru melalui halaman Releases.
+Download versi terbaru melalui halaman Releases.
 
 ```text
 GitHub → Releases → Download APK
@@ -235,27 +180,50 @@ GitHub → Releases → Download APK
 
 ---
 
-# ⭐ Support Project
+# ❤️ Support
 
-Jika aplikasi ini bermanfaat:
+Jika E-Kas membantu Anda:
 
-⭐ Berikan Star pada Repository
+⭐ Star Repository
 
-🔁 Bagikan kepada teman
+🍴 Fork Project
 
-💡 Berikan saran dan masukan
+📥 Download APK
+
+💡 Berikan Masukan
+
+🚀 Bagikan kepada Teman
+
+---
+
+# 📌 Repository Topics
+
+Tambahkan pada Settings → Topics:
+
+```text
+finance-app
+expense-tracker
+money-manager
+budget-tracker
+personal-finance
+flutter-app
+cash-flow
+android-finance
+expense-manager
+ai-finance
+```
 
 ---
 
 <p align="center">
-  <img src="data:image/png;base64,[ISI_FILE_bes64.txt]" width="100%">
+  <img src="assets/E-KAS_Banner2.png" width="100%" alt="E-Kas Footer Banner">
 </p>
 
 <p align="center">
-  <b>💎 E-Kas</b><br>
+  <b>💰 E-Kas</b><br>
   Smart Personal Finance Assistant
 </p>
 
 <p align="center">
-  Kelola uang lebih cerdas, lebih mudah, dan lebih terorganisir.
+  Manage money smarter, easier, and more organized.
 </p>
